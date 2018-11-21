@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vinicius-ledesma/graphql-blog/issues"
   },
-  "homepage": "https://github.com/vinicius-ledesma/graphql-blog#readme"
+  "homepage": "https://github.com/vinicius-ledesma/graphql-blog#readme",
+  "devDependencies": {
+    "typescript": "2.5.3"
+  }
 }
